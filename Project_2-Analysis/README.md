@@ -2,7 +2,7 @@
 
 ## Introduction
 
-As a current job seeker i saw it fitting to show my ability to explore and show data for the most optimal jobs and skills in the data scinence job market. I set out to understand what skills top employers request and what salary would I can expect for these skills.
+As a current job seeker i saw it fitting to show my ability to explore and show data for the most optimal jobs and skills in the data science job market. I set out to understand what skills top employers request and what salary would I can expect for these skills.
 
 ### Questions to Analyze
 
@@ -59,12 +59,12 @@ It includes detailed information on:
 #### Load
 
 - Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.
-    - 📊 Data_Jobs_Salary
+    - Data_Jobs_Salary
 
         <img width="1917" height="889" alt="2_Project_Analysis_Screenshot3" src="https://github.com/user-attachments/assets/3564d795-5e4b-4fae-9ce4-515142bfd307" />
 
 
-    - 🛠️ Data_Job_Skills
+    - Data_Job_Skills
 
         <img width="1919" height="868" alt="2_Project_Analysis_Screenshot4" src="https://github.com/user-attachments/assets/346533c9-893c-4ac4-8649-d951832a2331" />
 
@@ -185,4 +185,4 @@ It includes detailed information on:
 
 As a data enthusiast and current job seeker, I embarked on this Excel-based project to uncover valuable insights about the data science job market. Using a dataset I've curated from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. By leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and Excel. 
 
-While my screenshots and analysis are mostly for Business and Data Analysts jobs as those are what I am currently looking for, with the power of excel and slicers this project can easly be costomized for one or more of the other jobs in my project.
+While my screenshots and analysis are mostly for Business and Data Analysts jobs as those are what I am currently looking for, with the power of excel and slicers this project can easily be customized for one or more of the other jobs in my project.
