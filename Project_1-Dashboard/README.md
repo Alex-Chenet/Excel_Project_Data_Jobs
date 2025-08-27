@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a data job salary dashboard created to help visualize desired jobs for job seekers. It includes KPI cards for the desired jobs median copensation and top job platform.
+This is a data job salary dashboard created to help visualize desired jobs for job seekers. It includes KPI cards for the desired jobs median compensation and top job platform.
 
 ### Dashboard File
 My final dashboard is in [Data_Job_Salary_Dashboard.xlsx](Data_Job_Salary_Dashboard.xlsx).
