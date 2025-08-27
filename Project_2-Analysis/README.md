@@ -174,7 +174,7 @@ It includes detailed information on:
 - Higher median salaries are associated with skills like Python, Oracle, and SQL, suggesting their critical role in high-paying tech jobs.
 - Skills like PowerPoint and Word have the lowest median salaries and likelihood, indicating less specialization and demand in high-salary sectors.
 
-    <img width="1401" height="364" alt="2_Project_Analysis_Chart4" src="https://github.com/user-attachments/assets/562413eb-5969-41d3-b0de-54249263bd4b" />
+    <img width="1400" height="364" alt="2_Project_Analysis_Chart4" src="https://github.com/user-attachments/assets/562413eb-5969-41d3-b0de-54249263bd4b" />
 
 
 ### So What
